@@ -6,6 +6,12 @@ import {
     NodeJS,
     Python,
     Roblox,
+    WebView,
+    CSS,
+    SASS,
+    GSAP,
+    Figma,
+    Ejs,
     Java
 } from "./technologies";
 
@@ -15,7 +21,7 @@ class ramondeleonca extends Developer {
     constructor(isBuilding: string | Array<string>) {
     
         super({
-            technologiesIKnow: [ Javascript, Typescript, NodeJS, Python, Roblox ],
+            technologiesIKnow: [ Javascript, Typescript, NodeJS, Python, Roblox, WebView, CSS, SASS, GSAP, Figma, Ejs ],
             technologiesIWantToLearn: [ Java ],
             whereImStudying: "Instituto Tecnológico y de Estudios Superiores de Monterrey"
         });
