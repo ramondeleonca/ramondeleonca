@@ -12,7 +12,9 @@ import {
     GSAP,
     Figma,
     Ejs,
-    Java
+    Java,
+    React,
+    NextJS
 } from "./technologies";
 
 class ramondeleonca extends Developer {
@@ -21,7 +23,7 @@ class ramondeleonca extends Developer {
     constructor(isBuilding: string | Array<string>) {
     
         super({
-            technologiesIKnow: [ Javascript, Typescript, NodeJS, Python, Roblox, WebView, CSS, SASS, GSAP, Figma, Ejs ],
+            technologiesIKnow: [ Javascript, Typescript, NodeJS, Python, Roblox, WebView, CSS, SASS, GSAP, Figma, Ejs, React, NextJS ],
             technologiesIWantToLearn: [ Java ],
             whereImStudying: "Instituto Tecnológico y de Estudios Superiores de Monterrey"
         });
