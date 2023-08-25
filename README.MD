@@ -20,7 +20,7 @@ import {
 class ramondeleonca extends Developer {
     readonly isBuilding: string | Array<string>;
 
-    constructor(isBuilding: string | Array<string>) {
+    constructor(...isBuilding: string | Array<string>) {
     
         super({
             technologiesIKnow: [ Javascript, Typescript, NodeJS, Python, Roblox, WebView, CSS, SASS, GSAP, Figma, Ejs, React, NextJS, Java ],
