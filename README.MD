@@ -23,9 +23,9 @@ class ramondeleonca extends Developer {
     constructor(isBuilding: string | Array<string>) {
     
         super({
-            technologiesIKnow: [ Javascript, Typescript, NodeJS, Python, Roblox, WebView, CSS, SASS, GSAP, Figma, Ejs, React, NextJS ],
-            technologiesIWantToLearn: [ Java ],
-            whereImStudying: "Instituto Tecnológico y de Estudios Superiores de Monterrey"
+            technologiesIKnow: [ Javascript, Typescript, NodeJS, Python, Roblox, WebView, CSS, SASS, GSAP, Figma, Ejs, React, NextJS, Java ],
+            technologiesIWantToLearn: [ ],
+            whereImStudying: "Tec de Monterrey"
         });
     
         this.isBuilding = isBuilding;
@@ -33,7 +33,7 @@ class ramondeleonca extends Developer {
     };
 };
 
-new ramondeleonca("Korus");
+new ramondeleonca("Korus", "Blue Ignition's codebase");
 ```
 
 <p align="center">
