@@ -1,42 +1,18 @@
-```ts
-import { Developer } from "mexico";
-import { 
-    Javascript,
-    Typescript,
-    NodeJS,
-    Python,
-    Roblox,
-    WebView,
-    CSS,
-    SASS,
-    GSAP,
-    Figma,
-    Ejs,
-    Java,
-    React,
-    NextJS
-} from "./technologies";
+# Hello! I'm Ramón <img src="./assets/wave.gif" height="30px">
 
-class ramondeleonca extends Developer {
-    readonly isBuilding: string | Array<string>;
+Technologies i use:
 
-    constructor(...isBuilding: string | Array<string>) {
-    
-        super({
-            technologiesIKnow: [ Javascript, Typescript, NodeJS, Python, Roblox, WebView, CSS, SASS, GSAP, Figma, Ejs, React, NextJS, Java ],
-            technologiesIWantToLearn: [ ],
-            whereImStudying: "Tec de Monterrey"
-        });
-    
-        this.isBuilding = isBuilding;
-        
-    };
-};
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,arduino,bash,blender,cpp,cloudflare,css,d3,express,figma,firebase,git,github,gmail,gradle,html,ai,instagram,java,js,linux,lua,md,materialui,nextjs,nodejs,notion,npm,opencv,ps,pr,py,react,regex,robloxstudio,sass,stackoverflow,tailwind,ts,vercel,vite,vscode,webflow,au,heroku&theme=dark" />
+</a>
 
-new ramondeleonca("Korus", "Blue Ignition's codebase");
-```
+My favorite tech stack:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,firebase,next,ts,sass,tailwind,vercel&theme=dark" />
+</a>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ramondeleonca&show_icons=true&theme=react" height="175px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramondeleonca&layout=compact&theme=react" height="175px">
+    <img style="display: inline;" src="https://github-readme-stats.vercel.app/api?username=ramondeleonca&show_icons=true&theme=react" height="175px">
+    <img style="display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramondeleonca&layout=compact&theme=react" height="175px">
 </src>
