@@ -18,5 +18,5 @@ My favorite tech stack:
 </p>
 
 <p align="center">
-    <img style="display: inline;" src="https://streak-stats.demolab.com/?user=ramondeleonca&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="175px">
+    <img style="display: inline;" src="https://streak-stats.demolab.com/?user=ramondeleonca&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="175px">
 </p>
