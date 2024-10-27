@@ -1,5 +1,13 @@
 # Hello! I'm Ramón <img src="./assets/wave.gif" height="30px">
 
+- Web developer with 5 years experience 💻
+- Backend developer with 4 years experience 🖥️
+- Embedded systems developer with 3 years experience🎚️
+- 3D printing enthusiast 🪢
+- Photographer and videographer 📷
+- Drone enthusiast 🛸
+- Designer 🎨
+
 Technologies i use:
 
 <a href="https://skillicons.dev">
