@@ -25,6 +25,11 @@ My favorite tech stack:
     <img style="display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramondeleonca&layout=compact&theme=react" height="175px">
 </p>
 
+<!--
 <p align="center">
     <img style="display: inline;" src="https://streak-stats.demolab.com/?user=ramondeleonca&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="175px">
 </p>
+-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
