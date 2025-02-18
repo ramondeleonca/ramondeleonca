@@ -34,7 +34,8 @@ My favorite tech stack:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   45 mins         ████████████████████████▓   98.60 %
+JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
