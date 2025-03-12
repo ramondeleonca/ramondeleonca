@@ -34,7 +34,7 @@ My favorite tech stack:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 6 mins     █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
