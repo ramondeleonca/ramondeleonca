@@ -34,9 +34,8 @@ My favorite tech stack:
 <!--START_SECTION:waka-->
 
 ```txt
-Java         5 hrs 11 mins   █████████████████████████   99.81 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   3 hrs 38 mins   █████████████████████████   99.73 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
