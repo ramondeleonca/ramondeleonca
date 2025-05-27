@@ -38,3 +38,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2255&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=20"/>
+</p>
