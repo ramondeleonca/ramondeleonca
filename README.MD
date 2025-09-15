@@ -1,5 +1,7 @@
 # Hello! I'm Ramón <img src="./assets/wave.gif" height="30px">
 
+- Studying Robotics and Digital Systems engineering at ITESM 🤖
+- FRC Alumni 🔺⚪⏹️
 - Web developer with 5 years experience 💻
 - Backend developer with 4 years experience 🖥️
 - Embedded systems developer with 3 years experience🎚️
